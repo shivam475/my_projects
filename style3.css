@@ -1,0 +1,18 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+}
+h1,h3{
+    color:#b92b27
+}
+#login{
+    background-color: yellow;
+}
+#signup{
+    background-color: #b92b27;
+    color:white;
+}
+button:hover{
+    background-color: black;
+    color: pink;
+}
